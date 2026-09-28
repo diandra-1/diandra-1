@@ -16,7 +16,15 @@ I am an undergraduate student in **Cyber Security at BINUS University**. My work
 ### 📜 Certifications & Practical Training
 - **JadiHacker Certified Security Professional / Penetration Tester**  
   Completed practical penetration testing training and evaluation covering vulnerability assessment, web exploitation vectors, and remediation reporting.
+  
+- **Cisco Certified - Endpoint Security** 
+  Trained in endpoint protection, host-based security mechanisms, threat detection, antimalware strategies, and endpoint monitoring fundamentals.
 
+- **Cisco Certified - Ethical Hacker**
+  Mastered foundational ethical hacking concepts, reconnaissance, vulnerability scanning, attack surface analysis, and defensive countermeasures.
+
+- **Cisco Certified - Networking Basics**
+  Validated core networking fundamentals covering TCP/IP protocol suite, OSI architecture, IPv4/IPv6 subnetting, routing principles, and switching operations.
 ---
 
 ### 🛠️ Working Stack & Security Tools
