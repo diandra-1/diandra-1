@@ -39,11 +39,11 @@ I am an undergraduate student in **Cyber Security at BINUS University**. My work
 
 | Platform / Lab Focus | Core Focus Areas | Highlights |
 | :--- | :--- | :--- |
-| **PortSwigger Web Security Academy** | Server-side and client-side web vulnerabilities, access control logic, parameter tampering. | SQL Injection, SSRF, CSRF, IDOR, and Business Logic Flaws |
+| **PortSwigger Web Security Academy** | Server-side and client-side web vulnerabilities, access control logic, parameter tampering. | SQL Injection, SSRF, CSRF, IDOR, Path Traversal with filter bypasses |
 | **Cross-Site Scripting (XSS) Labs** | DOM-based, Reflected, and Stored XSS exploitation, filter evasion, and CSP analysis. | Payload construction and context-aware evasion testing |
-| **Hack The Box (HTB)** | Service enumeration, privilege escalation (Linux/Windows), and realistic box exploitation. | Methodical enumeration and post-exploitation capture |
-| **Vulnlab Environments** | Infrastructure security testing and chained privilege escalation pathways. | Staging environment audits and lateral movement analysis |
-
+| **Hack The Box (HTB)** | Target reconnaissance, service enumeration, and privilege escalation on Linux machines. | Compromised *Expressway* (Easy) with methodical enumeration and post-exploitation documentation |
+| **Vulnlab Environments** | Infrastructure security testing and chained privilege escalation pathways. | Lateral movement analysis in staging-style environments |
+| **picoCTF** | Capture The Flag challenges across multiple categories. | Web Exploitation, Cryptography, and Forensics |
 ---
 
 ### 📂 Featured Assessments & Technical Write-ups
