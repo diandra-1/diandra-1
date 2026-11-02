@@ -46,18 +46,31 @@ I am an undergraduate student in **Cyber Security at BINUS University**. My work
 | **picoCTF** | Capture The Flag challenges across multiple categories. | Web Exploitation, Cryptography, and Forensics |
 ---
 
-### 📂 Featured Assessments & Technical Write-ups
+### 📂 Hands-on Labs & Technical Documentation
 
-#### 🔍 Practical Web Application Penetration Test (Final Exam Assessment)
-* **Scope:** Systematic vulnerability assessment using Burp Suite Professional as the primary intercepting proxy.
-* **Methodology:** API endpoint reconnaissance, session validation testing, authorization checks, and payload delivery.
-* **Deliverable:** Technical reporting documenting issue severity via CVSS metrics, step-by-step reproduction, and hardening measures.
-* *[View Report / Repository →](https://github.com/[YOUR_GITHUB_USERNAME]/[link-repo-burp-exam])*
+#### 🖥️ Hack The Box: Expressway (Easy, Linux)
+* **Scope:** Full compromise of a vulnerable Linux machine from reconnaissance to root.
+* **Methodology:** Target reconnaissance, service enumeration, and privilege escalation.
+* **Tools:** Kali Linux, Nmap.
 
-#### 🎯 Advanced Web Exploitation & XSS Analysis
-* **Scope:** Targeted analysis of client-side validation logic and sanitization mechanisms.
-* **Tools:** Burp Suite (Repeater, Intruder, Decoder), Developer Tools, automation scripts.
-* *[Explore Lab Write-Ups →](https://github.com/[YOUR_GITHUB_USERNAME]/[link-repo-xss])*
+#### 📁 PortSwigger: Path Traversal
+* **Scope:** Practical labs on directory traversal in file-handling functionality.
+* **Methodology:** Exploiting traversal sequences and filter bypasses to read restricted arbitrary server files.
+* **Tools:** Burp Suite, Browser Developer Tools.
+
+#### 🎯 Cross-Site Scripting (XSS) Analysis
+* **Scope:** DOM-based, Reflected, and Stored XSS, including filter evasion and CSP analysis.
+* **Methodology:** Analysis of client-side validation and sanitization logic, followed by context-aware payload construction.
+* **Tools:** Burp Suite (Repeater, Intruder, Decoder), Browser Developer Tools.
+
+#### 🏗️ Vulnlab: Infrastructure Security Testing
+* **Scope:** Infrastructure security testing in staging-style environments.
+* **Methodology:** Chained privilege escalation pathways and lateral movement analysis.
+
+#### 🚩 picoCTF Challenges
+* **Scope:** Capture The Flag challenges in Web Exploitation, Cryptography, and Forensics.
+
+> 📝 Detailed write-ups are being added progressively.
 
 ---
 
