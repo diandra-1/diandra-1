@@ -30,8 +30,8 @@ I am an undergraduate student in **Cyber Security at BINUS University**. My work
 ### 🛠️ Working Stack & Security Tools
 
 * **Security & Testing:** Burp Suite Professional, Hack The Box (HTB), PortSwigger Web Security Academy, JADX, Wireshark
-* **Languages & Scripting:** Java, Python, SQL, C/C++, JavaScript, Bash
-* **Environments & Foundations:** Linux (Kali / Debian), Git, Relational Database Management (MySQL / PostgreSQL)
+* **Languages & Scripting:** C++, Pyhton
+* **Environments & Foundations:** Linux, Git, Relational Database Management MySQL
 
 ---
 
